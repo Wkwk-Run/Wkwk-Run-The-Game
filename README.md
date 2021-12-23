@@ -1,3 +1,8 @@
+<!-- PROJECT SHIELDS -->
+[![Contributors][contributors-shield]][contributors-url]
+[![Issues][issues-shield]][issues-url]
+[![GoogleDrive][googledrive-shield]][https://drive.google.com/file/d/1dX4-MT9y54RNCcFSRGecrvQWxRMmx4VJ/view?usp=sharing]
+
 # WKWK Run
 ‘Maju. Bermain bersama, lari dan menertawakannya’
 
