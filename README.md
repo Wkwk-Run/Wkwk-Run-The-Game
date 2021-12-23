@@ -5,7 +5,7 @@
 <br/>
 
 <p align="center">
-<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Wkwk-Run/Wkwk-Run-The-Game">
+<img alt="GitHub contributors" src="https://github.com/Wkwk-Run/Wkwk-Run-The-Game/graphs/contributors">
     </p>
    
 
