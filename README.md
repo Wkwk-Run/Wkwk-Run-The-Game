@@ -25,7 +25,7 @@ It means 'Go forward, play together, run and laugh at it'. WKWK Run is a multi-p
 </p>
 
 # About
-WKWK RUN is a multiplayer game that can be played by up to 5 players. The game is intended for children aged over 13 years (IGRS 13+). By taking the theme of iconic and popular things in Indonesia, such as Bocil (kids), Mak Mak, and other unique phenomena. Using plots of iconic places in Indonesia such as Borobudur, Tradisionl house, and others. The ultimate goal of this game is to promote unique things and hype that only exists in Indonesia.
+WKWK RUN is a multiplayer game that can be played by up to 5 players. The game is intended for children aged over 13 years (IGRS 13+). By taking the theme of iconic and popular things in Indonesia, such as Bocil (kids), Mak Mak, and other unique phenomena. Using plots of iconic places in Indonesia such as Borobudur, Traditional house, and others. The ultimate goal of this game is to promote unique things and hype that only exists in Indonesia.
 
 # How To Play
 Players can choose 2 modes of play options. 
