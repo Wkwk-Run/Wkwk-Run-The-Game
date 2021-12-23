@@ -1,0 +1,26 @@
+C:\Unity Project\WPG_5\Wkwk-Server\bin\Debug\netcoreapp3.1\Wkwk-Server.exe
+C:\Unity Project\WPG_5\Wkwk-Server\bin\Debug\netcoreapp3.1\Wkwk-Server.deps.json
+C:\Unity Project\WPG_5\Wkwk-Server\bin\Debug\netcoreapp3.1\Wkwk-Server.runtimeconfig.json
+C:\Unity Project\WPG_5\Wkwk-Server\bin\Debug\netcoreapp3.1\Wkwk-Server.runtimeconfig.dev.json
+C:\Unity Project\WPG_5\Wkwk-Server\bin\Debug\netcoreapp3.1\Wkwk-Server.dll
+C:\Unity Project\WPG_5\Wkwk-Server\bin\Debug\netcoreapp3.1\Wkwk-Server.pdb
+C:\Unity Project\WPG_5\Wkwk-Server\obj\Debug\netcoreapp3.1\Wkwk-Server.csproj.AssemblyReference.cache
+C:\Unity Project\WPG_5\Wkwk-Server\obj\Debug\netcoreapp3.1\Wkwk-Server.AssemblyInfoInputs.cache
+C:\Unity Project\WPG_5\Wkwk-Server\obj\Debug\netcoreapp3.1\Wkwk-Server.AssemblyInfo.cs
+C:\Unity Project\WPG_5\Wkwk-Server\obj\Debug\netcoreapp3.1\Wkwk-Server.csproj.CoreCompileInputs.cache
+C:\Unity Project\WPG_5\Wkwk-Server\obj\Debug\netcoreapp3.1\Wkwk-Server.dll
+C:\Unity Project\WPG_5\Wkwk-Server\obj\Debug\netcoreapp3.1\Wkwk-Server.pdb
+C:\Unity Project\WPG_5\Wkwk-Server\obj\Debug\netcoreapp3.1\Wkwk-Server.genruntimeconfig.cache
+C:\Unity_Project\WPG_5\Wkwk-Server\bin\Debug\netcoreapp3.1\Wkwk-Server.exe
+C:\Unity_Project\WPG_5\Wkwk-Server\bin\Debug\netcoreapp3.1\Wkwk-Server.deps.json
+C:\Unity_Project\WPG_5\Wkwk-Server\bin\Debug\netcoreapp3.1\Wkwk-Server.runtimeconfig.json
+C:\Unity_Project\WPG_5\Wkwk-Server\bin\Debug\netcoreapp3.1\Wkwk-Server.runtimeconfig.dev.json
+C:\Unity_Project\WPG_5\Wkwk-Server\bin\Debug\netcoreapp3.1\Wkwk-Server.dll
+C:\Unity_Project\WPG_5\Wkwk-Server\bin\Debug\netcoreapp3.1\Wkwk-Server.pdb
+C:\Unity_Project\WPG_5\Wkwk-Server\obj\Debug\netcoreapp3.1\Wkwk-Server.csproj.AssemblyReference.cache
+C:\Unity_Project\WPG_5\Wkwk-Server\obj\Debug\netcoreapp3.1\Wkwk-Server.AssemblyInfoInputs.cache
+C:\Unity_Project\WPG_5\Wkwk-Server\obj\Debug\netcoreapp3.1\Wkwk-Server.AssemblyInfo.cs
+C:\Unity_Project\WPG_5\Wkwk-Server\obj\Debug\netcoreapp3.1\Wkwk-Server.csproj.CoreCompileInputs.cache
+C:\Unity_Project\WPG_5\Wkwk-Server\obj\Debug\netcoreapp3.1\Wkwk-Server.dll
+C:\Unity_Project\WPG_5\Wkwk-Server\obj\Debug\netcoreapp3.1\Wkwk-Server.pdb
+C:\Unity_Project\WPG_5\Wkwk-Server\obj\Debug\netcoreapp3.1\Wkwk-Server.genruntimeconfig.cache

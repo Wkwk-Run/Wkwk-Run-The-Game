@@ -1,0 +1,350 @@
+fileFormatVersion: 2
+guid: 99397eba49784d54c8a28c83e67f3446
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8911612093597744265
+    second: Pak Ustad Idle 300_0
+  - first:
+      213: 6885330862986390207
+    second: Pak Ustad Idle 300_1
+  - first:
+      213: 7358650191706838353
+    second: Pak Ustad Idle 300_2
+  - first:
+      213: 3647657373207682751
+    second: Pak Ustad Idle 300_3
+  - first:
+      213: -7468480611927216307
+    second: Pak Ustad Idle 300_4
+  - first:
+      213: 968329186543111888
+    second: Pak Ustad Idle 300_5
+  - first:
+      213: -7240405001136914635
+    second: Pak Ustad Idle 300_6
+  - first:
+      213: 532649681770999825
+    second: Pak Ustad Idle 300_7
+  - first:
+      213: -3883218899796247986
+    second: Pak Ustad Idle 300_8
+  - first:
+      213: 5659695527074694023
+    second: Pak Ustad Idle 300_9
+  - first:
+      213: -6294878967953185271
+    second: Pak Ustad Idle 300_10
+  - first:
+      213: -1703446541154934895
+    second: Pak Ustad Idle 300_11
+  - first:
+      213: 4391721769093442589
+    second: Pak Ustad Idle 300_12
+  - first:
+      213: 664247486064378495
+    second: Pak Ustad Idle 300_13
+  - first:
+      213: -6904197311164800701
+    second: Pak Ustad Idle 300_14
+  - first:
+      213: -6331527833168130374
+    second: Pak Ustad Idle 300_15
+  - first:
+      213: -746736432345015210
+    second: Pak Ustad Idle 300_16
+  - first:
+      213: 8773389893591221948
+    second: Pak Ustad Idle 300_17
+  - first:
+      213: -4116235013084917464
+    second: Pak Ustad Idle 300_18
+  - first:
+      213: -585412806466214489
+    second: Pak Ustad Idle 300_19
+  - first:
+      213: 8873964679565791154
+    second: Pak Ustad Idle 300_20
+  - first:
+      213: -7491153520762656317
+    second: Pak Ustad Idle 300_21
+  - first:
+      213: -9202545570419639280
+    second: Pak Ustad Idle 300_22
+  - first:
+      213: 9045432695529451779
+    second: Pak Ustad Idle 300_23
+  - first:
+      213: 860832624598050020
+    second: Pak Ustad Idle 300_24
+  - first:
+      213: 3418924014741072886
+    second: Pak Ustad Idle 300_25
+  - first:
+      213: 1602021219398827211
+    second: Pak Ustad Idle 300_26
+  - first:
+      213: -406449548806217320
+    second: Pak Ustad Idle 300_27
+  - first:
+      213: 1179931129225986279
+    second: Pak Ustad Idle 300_28
+  - first:
+      213: -7751251726279080470
+    second: Pak Ustad Idle 300_29
+  - first:
+      213: -4323980993107906210
+    second: Pak Ustad Idle 300_30
+  - first:
+      213: 4665000834057516242
+    second: Pak Ustad Idle 300_31
+  - first:
+      213: 5979776535179107115
+    second: Pak Ustad Idle 300_32
+  - first:
+      213: -8365287476747431035
+    second: Pak Ustad Idle 300_33
+  - first:
+      213: 7201568044550705344
+    second: Pak Ustad Idle 300_34
+  - first:
+      213: 3597955384339764359
+    second: Pak Ustad Idle 300_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pak Ustad Idle 300_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cf7febbf76cab70800000000000000
+      internalID: 8911612093597744265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pak Ustad Idle 300_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba665990fb9d8f50800000000000000
+      internalID: 6885330862986390207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pak Ustad Idle 300_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155db0f8c5d2f1660800000000000000
+      internalID: 7358650191706838353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pak Ustad Idle 300_3
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbed0680e051f9230800000000000000
+      internalID: 3647657373207682751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pak Ustad Idle 300_4
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4faf220470aa5890800000000000000
+      internalID: -7468480611927216307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pak Ustad Idle 300_5
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de8b85c342307d00800000000000000
+      internalID: 968329186543111888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

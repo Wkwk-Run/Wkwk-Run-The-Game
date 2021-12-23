@@ -1,0 +1,10 @@
+Source
+https://stackoverflow.com/questions/41533592/how-to-compile-net-core-app-for-linux-on-a-windows-machine
+https://www.c-sharpcorner.com/article/how-to-deploy-net-core-application-on-linux/
+
+Ubuntu
+dotnet build C:\Unity_Project\WPG_5\Wkwk-Server\Wkwk-Server.sln --runtime ubuntu.16.04-x64 -p:ImportByWildcardBeforeSolution=false
+
+Linux
+dotnet build C:\Unity_Project\WPG_5\Wkwk-Server\Wkwk-Server.sln --runtime linux-x64 -p:ImportByWildcardBeforeSolution=false
+dotnet build C:\Unity_Project\WPG_5\Wkwk-Server\Wkwk-Server.sln --runtime linux-arm64 -p:ImportByWildcardBeforeSolution=false
