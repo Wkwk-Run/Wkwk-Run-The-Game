@@ -4,6 +4,18 @@
 [![Issues][issues-shield]][issues-url]
 [![GoogleDrive][googledrive-shield]][https://drive.google.com/file/d/1dX4-MT9y54RNCcFSRGecrvQWxRMmx4VJ/view?usp=sharing]
 
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+    <img src="![logo](https://user-images.githubusercontent.com/63763376/147191670-f63011ce-8813-43d1-85a6-6ea68f61c720.png)
+" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Wkwk Run</h3>
+
+  <p align="center">
+</div>
+
 # WKWK Run
 ‘Maju. Bermain bersama, lari dan menertawakannya’
 
