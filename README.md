@@ -9,7 +9,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="![logo](https://user-images.githubusercontent.com/63763376/147191670-f63011ce-8813-43d1-85a6-6ea68f61c720.png)"
+    <img src="https://github.com/Wkwk-Run/Wkwk-Run-The-Game/blob/main/Images/All%20conto.png"
  alt="Logo" width="80" height="80">
   </a>
 
