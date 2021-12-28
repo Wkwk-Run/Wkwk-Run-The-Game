@@ -1,6 +1,7 @@
 <!-- PROJECT LOGO -->
 <div align="center">
-    <img src="https://github.com/Wkwk-Run/Wkwk-Run-The-Game/blob/main/Images/logo.png" alt="Logo" width="200" height="200">
+    <img src="https://github.com/Wkwk-Run/Wkwk-Run-The-Game/blob/main/Images/logo.png"
+ alt="Logo" width="200" height="200">
 </div>
 <br/>
 
@@ -31,11 +32,6 @@ Players can choose 2 modes of play options.
 <p>
 The gameplay in the WKWK RUN game requires players to race with other players to be able to get 1st, 2nd, or 3rd Place at the Finish line. Avoid obstacles that can make players delay in playing the game to obstacles that make players die.
 </p>
-
-# Gameplay
-<p>
-<img src="https://github.com/Wkwk-Run/Wkwk-Run-The-Game/blob/main/Images/20211223_165901.gif" width="200" height="410">
-<img src="https://github.com/Wkwk-Run/Wkwk-Run-The-Game/blob/main/Images/20211223_170648.gif" width="200" height="410">
 
 # Game Design Document
 <p>
