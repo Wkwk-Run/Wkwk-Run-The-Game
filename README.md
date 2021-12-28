@@ -38,6 +38,14 @@ The gameplay in the WKWK RUN game requires players to race with other players to
 <img src="https://github.com/Wkwk-Run/Wkwk-Run-The-Game/blob/main/Images/20211223_165901.gif" width="200" height="410">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/Wkwk-Run/Wkwk-Run-The-Game/blob/main/Images/20211223_170648.gif" width="200" height="410">
+    
+# How To Deploy Server (Linux)
+    1. Intall .NET in server
+    2. Clone repository of Wkwk Server Project
+    3. Use dotnet Build to build the project
+    4. Use dotnet Publish to publish project
+    5. Make a service run in server
+    6. Run service as a background service
 
 # Network Flow Documentation
 This game uses homemade framework with .NET, see [Server](https://github.com/Wkwk-Run/Wkwk-Run-The-Game/tree/main/Wkwk-Server) and [Client](https://github.com/Wkwk-Run/Wkwk-Run-The-Game/blob/main/WkWk-Run_Unity-Project/Assets/Script/General/Client.cs)<br/>
