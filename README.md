@@ -39,13 +39,15 @@ The gameplay in the WKWK RUN game requires players to race with other players to
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/Wkwk-Run/Wkwk-Run-The-Game/blob/main/Images/20211223_170648.gif" width="200" height="410">
     
-# How To Deploy Server (Linux)
-    1. Intall .NET in server
-    2. Clone repository of Wkwk Server Project
-    3. Use dotnet Build to build the project
-    4. Use dotnet Publish to publish project
-    5. Make a service run in server
-    6. Run service as a background service
+# How To Deploy Server (Linux - CentOS7)
+1. Use Remote Server Applications such as `PUTTY` if using windows to access the VPS server that will be used
+2. Ensure the availability of several supporting services to run dotnet-based web services, such as Apache, Database, Firewall, Proxy, GIT etc.
+3. Install `dotnet core for linux` according to the version developed locally. How to install can be seen at the [link](https://docs.microsoft.com/en-us/dotnet/core/install/linux-centos)
+4. After Dotnet is successfully installed use `git` to clone the repository Wkwk-Server
+5. After the code for the web service is already on the server to be used, run the `dotnet build` and `dotner publish` commands to make the code ready to run
+6. Use the `dotnet run` command to run the web service on the server
+     <br/> <br/>
+ Note : If you use the method above, when you logout from the server, the web service will automatically stop. To keep the web service running, you need to use the background service on centOS7
 
 # Network Flow Documentation
 This game uses homemade framework with .NET, see [Server](https://github.com/Wkwk-Run/Wkwk-Run-The-Game/tree/main/Wkwk-Server) and [Client](https://github.com/Wkwk-Run/Wkwk-Run-The-Game/blob/main/WkWk-Run_Unity-Project/Assets/Script/General/Client.cs)<br/>
