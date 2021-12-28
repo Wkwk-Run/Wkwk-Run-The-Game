@@ -1,14 +1,14 @@
+[![Contributors](https://img.shields.io/github/contributors/Wkwk-Run/Wkwk-Run-The-Game)](https://github.com/Wkwk-Run/Wkwk-Run-The-Game/graphs/contributors)
+[![GDD](https://img.shields.io/badge/Document-Game%20Design%20Document-red)](https://docs.google.com/document/d/1j6ov218TL7z7kKG_mCwD1cUjjYhOghIIkOSAiI2kOkA/edit?usp=sharing{/google_docs})
+[![Trello](https://img.shields.io/badge/Project-Trello-blue)](https://trello.com/b/R9qKY1gA/wpg-5)
+[![APK](https://img.shields.io/badge/App-Games%20App-yellow)](https://drive.google.com/file/d/1dX4-MT9y54RNCcFSRGecrvQWxRMmx4VJ/view?usp=sharing)
+
 <!-- PROJECT LOGO -->
 <div align="center">
     <img src="https://github.com/Wkwk-Run/Wkwk-Run-The-Game/blob/main/Images/logo.png"
  alt="Logo" width="200" height="200">
 </div>
 <br/>
-
-<p align="center">
-<img alt="GitHub contributors" src="https://github.com/Wkwk-Run/Wkwk-Run-The-Game/graphs/contributors">
-    </p>
-   
 
 <p align="center">
 ‘Maju. Bermain bersama, lari dan menertawakannya’ <br/>
@@ -33,13 +33,11 @@ Players can choose 2 modes of play options.
 The gameplay in the WKWK RUN game requires players to race with other players to be able to get 1st, 2nd, or 3rd Place at the Finish line. Avoid obstacles that can make players delay in playing the game to obstacles that make players die.
 </p>
 
-# Game Design Document
+# Gameplay
 <p>
-https://docs.google.com/document/d/1j6ov218TL7z7kKG_mCwD1cUjjYhOghIIkOSAiI2kOkA/edit?usp=sharing{/google_docs}
-</p>
-
-# Trello
-https://trello.com/b/R9qKY1gA/wpg-5
+<img src="https://github.com/Wkwk-Run/Wkwk-Run-The-Game/blob/main/Images/20211223_165901.gif" width="200" height="410">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Wkwk-Run/Wkwk-Run-The-Game/blob/main/Images/20211223_170648.gif" width="200" height="410">
 
 # Network Flow Documentation
 This game uses homemade framework with .NET, see [Server](https://github.com/Wkwk-Run/Wkwk-Run-The-Game/tree/main/Wkwk-Server) and [Client](https://github.com/Wkwk-Run/Wkwk-Run-The-Game/blob/main/WkWk-Run_Unity-Project/Assets/Script/General/Client.cs)<br/>
